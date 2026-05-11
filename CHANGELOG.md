@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.17.8 (2026-05-11)
+
+### Bug Fixes
+
+* fix combineHandlers types ([#105](https://github.com/FigurePOS/react-native-local-server/issues/105)) ([dcb19c0](https://github.com/FigurePOS/react-native-local-server/commit/dcb19c01f1992bfbe1cbd1feff0bff5b1dc99853))
+
 ## 0.17.6 (2026-02-25)
 
 ### Chores
