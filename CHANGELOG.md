@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.17.9 (2026-05-13)
+
+### Bug Fixes
+
+* fix building for Android FGR3-9544 ([#106](https://github.com/FigurePOS/react-native-local-server/issues/106)) ([e9b2f25](https://github.com/FigurePOS/react-native-local-server/commit/e9b2f25a56d0d3bddd613a2d102d921ce387f769))
+
 ## 0.17.8 (2026-05-11)
 
 ### Bug Fixes
